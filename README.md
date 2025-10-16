@@ -1,5 +1,11 @@
-## Hi there 👋
+## About me👋
 
+Computer Science Student @ **Warsaw University of Technology**. I enjoy static checkers breathing down my neck 😉
+
+## How to Reach Me
+
+* **LinkedIn**: [Tomasz Nejman](https://www.linkedin.com/in/tomasz-nejman-4b429038b)
+* **Email**: [tomasz.nejman04@gmail.com](mailto:tomasz.nejman04@gmail.com)
 <!--
 **tNejman/tNejman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
